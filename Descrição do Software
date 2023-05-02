@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" >
+        <title>Descrição do Software</title>
+    </head>
+    <body>
+        <h1>Introdução ao Software</h1>
+        <p>O software foi desenvolvido com o objetivo de atender as necessidades da secretaria para facilitar a organização 
+            de disciplinas, professores e alunos. Além disso, ajuda a automatizar processos, proporcionando um impulso significativo
+            em relação a mudança digital da escola. No documento de requisitos podemos entender que o sistema tem como propósito 
+            faciliatr o acesso dos alunos as disciplinas e professores, facilitar também o acesso de professores as notas e frequências dos alunos
+            podendo modificá-las e permitir a matrícula de novos alunos tanto quanto a desmatrícula, entre outras funcionalidades.
+
+        </p>
+    </body>
