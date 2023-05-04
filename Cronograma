@@ -1,0 +1,729 @@
+<HTML>
+    <HEAD>
+    </HEAD>
+
+        <BODY>
+            <table border align = "center" width = "600">
+
+                <tr>
+                    <th rowspan = "2">ID <br>Requisitos</br> funcionais</th>
+                    <th colspan = "10">Semanas</th>
+                </tr>
+                
+
+                <tr>
+                    <td align="center">1</td>
+                    <td align="center">2</td>
+                    <td align="center">3</td>
+                    <td align="center">4</td>
+                    <td align="center">5</td>
+                    <td align="center">6</td>
+                    <td align="center">7</td>
+                    <td align="center">8</td>
+                    
+                </tr>
+
+                <tr>
+                    <td align="center">[RF001]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF002]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF003]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF004]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF005]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF006]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF007]</td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF008]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF009]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF010]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr> 
+                
+                <tr>
+                    <td align="center">[RF011]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF012]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF013]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF014]</td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF015]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF016]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF017]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF018]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF019]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF020]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF021]</td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF022]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF023]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF0024]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF025]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF026]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF027]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF028]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF029]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF030]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF031]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF032]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF033]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF0034]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF035]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF036]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF037]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF038]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF039]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF040]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF041]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF042]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF043]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF044]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF045]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF046]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF047]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF048]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF049]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF050]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF051]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF052]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF053]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF054]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF055]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF056]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF057]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                <tr>
+                    <td align="center">[RF058]</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td align="center">x</td>
+                </tr>
+
+                
+
+                
+            </table>
+
+        </BODY>
+
+</HTML>
